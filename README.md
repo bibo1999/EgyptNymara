@@ -81,7 +81,7 @@
   <div id="install" class="section">
     <h3>⚙️ Installation</h3>
     <ol>
-      <li>Clone the repo: <code>git clone https://github.com/yourusername/experience-egypt.git</code></li>
+      <li>Clone the repo: <code>git clone https://github.com/bibo1999/EgyptNymara.git</code></li>
       <li>Navigate to the folder: <code>cd experience-egypt</code></li>
       <li>Open <code>index.html</code> in your browser or use a local server (e.g., VS Code’s Live Server).</li>
     </ol>
